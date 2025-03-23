@@ -5,3 +5,4 @@ ENEMY_IMG = "assets/ptichka.png"
 
 GAME_MUSIC = "assets/fon.mp3"
 FIRE_SOUND = "assets/piupiu.mp3"
+DAMAGE_SOUND = "assets/kill.mp3"
